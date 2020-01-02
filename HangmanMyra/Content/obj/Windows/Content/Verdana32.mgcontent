@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/Verdana32.spritefont</SourceFile>
+  <SourceTime>2019-03-08T15:09:18.6532812+02:00</SourceTime>
+  <DestFile>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/bin/Windows/Content/Verdana32.xnb</DestFile>
+  <DestTime>2019-03-08T15:09:50.2266717+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-02-19T21:11:36+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-02-19T21:11:36+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

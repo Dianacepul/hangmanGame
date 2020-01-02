@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/body.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/gallowes.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/head.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/leftLeg.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/rightLeg.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/../../../../../../Pictures/Hangman/rope.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/leftArm.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/rightArm.png</File>
+    <File>C:/Users/cepul/Documents/Visual Studio 2017/Projects/HangmanMyra/HangmanMyra/Content/Verdana32.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>body.png</File>
+    <File>gallowes.png</File>
+    <File>head.png</File>
+    <File>leftLeg.png</File>
+    <File>rightLeg.png</File>
+    <File>rope.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Arial12.spritefont</File>
+  </DestFiles>
+</SourceFileCollection>
